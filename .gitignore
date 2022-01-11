@@ -1,0 +1,6 @@
+venv/
+*config.py
+__pycache__/
+*.py[cod]
+*$py.class
+testSelect.py
